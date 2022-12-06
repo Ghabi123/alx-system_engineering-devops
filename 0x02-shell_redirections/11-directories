@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la -mindepth 2 -type d
+ls -laA -type -d
